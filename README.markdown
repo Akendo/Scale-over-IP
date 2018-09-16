@@ -10,7 +10,12 @@ Having a cheap digital scale to send it's data to a remote IP-based endpoint. As
 
 # Sources
 
+https://en.wikipedia.org/wiki/Elastomeric_connector
+https://en.wikipedia.org/wiki/Bioelectrical_impedance_analysis
+https://de.wikipedia.org/wiki/Bioelektrische_Impedanzanalyse
 https://de.wikipedia.org/wiki/Dehnungsmessstreifen
+
+(I've added the german Wikipedia article, because they a quite useful and provide more details than the English ones. )
 
 # License 
 
