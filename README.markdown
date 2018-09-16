@@ -12,11 +12,17 @@ Having a cheap digital scale to send it's data to a remote IP-based endpoint. As
 
 
 https://en.wikipedia.org/wiki/Bioelectrical_impedance_analysis
+
 https://de.wikipedia.org/wiki/Bioelektrische_Impedanzanalyse
+
 https://de.wikipedia.org/wiki/Dehnungsmessstreifen
+
 https://www.instructables.com/id/Direct-Reading-of-LCD-Using-General-Purpose-IO/
+
 https://www.youtube.com/watch?v=mo4_5vG8bbU
+
 https://www.youtube.com/watch?v=ZP0KxZl5N2o
+
 https://en.wikipedia.org/wiki/Elastomeric_connector
 
 (I've added the german Wikipedia article, because they a quite useful and provide more details than the English ones. )
