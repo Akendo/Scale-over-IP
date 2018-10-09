@@ -6,6 +6,15 @@
 
 Having a cheap digital scale to send it's data to a remote IP-based endpoint. As of now this repository servers the purpose of documentation. 
 
+ - Blog: The draft page WIP.
+
+
+## ToDos
+
+ - Make a image from the LCD Display with it's Segments. Might be displayed in the manual.
+ - Document about
+   - The function of AC generation with IO Pins.
+   - Tri-state of the COM Mode on the LCD displays.
 
 
 # Sources
