@@ -23,7 +23,7 @@ Having a cheap digital scale to send it's data to a remote IP-based endpoint. As
 - [Wikipedia - Bioelectrical impedance analysis](https://en.wikipedia.org/wiki/Bioelectrical_impedance_analysis) 
 - [Wikipedia - Strain gauge](https://en.wikipedia.org/wiki/Strain_gauge)
 - [Direct reading of LCD using GPIO](https://www.instructables.com/id/Direct-Reading-of-LCD-Using-General-Purpose-IO/)
-- [Multiplex Drive and Bias of LCD Technology] (https://www.pacificdisplay.com/lcd_multiplex_drive.htm)
+- [Multiplex Drive and Bias of LCD Technology](https://www.pacificdisplay.com/lcd_multiplex_drive.htm)
 - [YouTube - EEVblog #1044 - LCD Technology Tutorial](https://www.youtube.com/watch?v=mo4_5vG8bbU)
 - [YouTube - EEVblog #1045 - How To Drive an LCD](https://www.youtube.com/watch?v=ZP0KxZl5N2o)
 - [Wikipedia - Elastomeric connector](https://en.wikipedia.org/wiki/Elastomeric_connector)
