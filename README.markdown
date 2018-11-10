@@ -1,24 +1,24 @@
 # Scale-over-IP
 
+<img src="https://github.com/Akendo/Scale-over-IP/blob/master/images/scale_front.jpg" width="75%">
 
 ## What is the goal of this project?
 
+Having a cheap digital scale to send it's data to a remote IP-based endpoint. The data is retrieved by reading out the LCDs data lines and decode the displays content.
 
-Having a cheap digital scale to send it's data to a remote IP-based endpoint. As of now this repository servers the purpose of documentation. 
+ <img src="https://github.com/Akendo/Scale-over-IP/blob/master/images/lcd_segments.jpg?raw=true" width="50%">
+
+As of now this repository servers the purpose of documentation.
 
  - Blog: The draft page WIP.
-
-
+ 
 ## ToDos
 
- - Make a image from the LCD Display with it's Segments. Might be displayed in the manual.
  - Document about
    - The function of AC generation with IO Pins.
    - Tri-state of the COM Mode on the LCD displays.
 
-
 # Sources
-
 
 - [Wikipedia - Bioelectrical impedance analysis](https://en.wikipedia.org/wiki/Bioelectrical_impedance_analysis) 
 - [Wikipedia - Strain gauge](https://en.wikipedia.org/wiki/Strain_gauge)
